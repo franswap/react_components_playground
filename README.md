@@ -1,11 +1,12 @@
 # Groupe de composants React
 
 ## Projet constitué de plusieurs composants:
-- Accordion,
-- Generateur de couleur random,
-- systeme de notation en étoile,
-- Un slider pour les images,
-- bouton de génération "charger plus"
+- BOX EN ACCORDEON AVEC SELECTION SIMPLE OU MULTIPLE,
+- ![image](https://github.com/franswap/react_components_playground/assets/93017364/321e0d12-f1aa-4c28-9c35-3605b5aee52e)
+- GENERATEUR DE COULEURS ALEATOIRE,
+- ![image](https://github.com/franswap/react_components_playground/assets/93017364/51647bf2-ee10-41cc-89a4-116123bb13a9)
+- SYSTEME DE NOTATION AVEC LES ETOILES,
+![image](https://github.com/franswap/react_components_playground/assets/93017364/6ad2f8ee-178e-4aab-afa4-c189366094c5)
 
 ## Available Scripts
 
@@ -69,8 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# react_components_playground" 
