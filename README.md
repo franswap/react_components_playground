@@ -2,10 +2,15 @@
 
 ## Projet constitué de plusieurs composants:
 - BOX EN ACCORDEON AVEC SELECTION SIMPLE OU MULTIPLE,
-- ![image](https://github.com/franswap/react_components_playground/assets/93017364/321e0d12-f1aa-4c28-9c35-3605b5aee52e)
+  
+  ![image](https://github.com/franswap/react_components_playground/assets/93017364/321e0d12-f1aa-4c28-9c35-3605b5aee52e)
+  
 - GENERATEUR DE COULEURS ALEATOIRE,
-- ![image](https://github.com/franswap/react_components_playground/assets/93017364/51647bf2-ee10-41cc-89a4-116123bb13a9)
+  
+ ![image](https://github.com/franswap/react_components_playground/assets/93017364/51647bf2-ee10-41cc-89a4-116123bb13a9)
+ 
 - SYSTEME DE NOTATION AVEC LES ETOILES,
+  
 ![image](https://github.com/franswap/react_components_playground/assets/93017364/6ad2f8ee-178e-4aab-afa4-c189366094c5)
 
 ## Available Scripts
