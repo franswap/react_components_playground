@@ -13,6 +13,10 @@
   
 ![image](https://github.com/franswap/react_components_playground/assets/93017364/6ad2f8ee-178e-4aab-afa4-c189366094c5)
 
+- SLIDER POUR LES IMAGES
+
+![image](https://github.com/franswap/react_components_playground/assets/93017364/dbc3b791-fb64-49ca-ab45-c743c9afeee2)
+
 ## Available Scripts
 
 In the project directory, you can run:
