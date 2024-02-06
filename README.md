@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Groupe de composants React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Projet constitué de plusieurs composants:
+- Accordion,
+- Generateur de couleur random,
+- systeme de notation en étoile,
+- Un slider pour les images,
+- bouton de génération "charger plus"
 
 ## Available Scripts
 
