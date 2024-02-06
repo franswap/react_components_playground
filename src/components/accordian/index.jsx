@@ -26,6 +26,7 @@ export default function Accordian() {
 
   return (
     <div className="wrapper">
+      <div className="title-generator">BOX EN ACCORDEON AVEC SELECTION SIMPLE OU MULTIPLE</div>
       <div className="top">
         <Button
           onClick={() => setEnableMultipleSelection(!enableMultipleSelection)}
