@@ -20,7 +20,6 @@ export default function StarRating({ noOfStars = 5}) {
 
     return (
         <div className="star-rating">
-            <div className="title-generator">SYSTEME DE NOTATION AVEC LES ETOILES</div>
             {[...Array(noOfStars)].map((_, index) => {
                 const currentIndex = index + 1;
 
